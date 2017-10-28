@@ -1,0 +1,58 @@
+/*#background{
+	background-color:transparent;
+	
+background: url(../images/exampleBackground.jpg) no-repeat center center fixed ;
+    -webkit-background-size: cover; /* For WebKit
+    -moz-background-size: cover;    /* Mozilla
+    -o-background-size: cover;      /* Opera
+    background-size: cover;         /* Generic
+    position: absolute;
+	z-index:0;
+}*/
+
+.navbar {
+	margin-top:2px;
+	margin-left:5px;
+	position: relative;
+	background-color: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.5);
+	border-color: rgba(0,0,0,0.5);
+	z-index:100;
+}
+
+.navbar li { color: #000 } 
+
+#searchBox
+{
+	width: 24em;
+}
+
+#searchBtn
+{
+	margin: 0em 1em 0em 0em
+}
+
+#logo
+{
+	color:#81F781;
+}	
+
+.navigation
+{
+    color: white;
+    font-size: 1.5em;
+	font-weight:bold;
+}
+
+.button {
+
+			color:grey;
+			font-size: 1.5em;
+            background-color: Transparent;
+            background-repeat:no-repeat;
+            border: none;
+            cursor:pointer;
+            overflow: hidden;
+
+        }
+
